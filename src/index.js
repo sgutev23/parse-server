@@ -74,7 +74,7 @@ function ParseServer({
   dotNetKey = '',
   restAPIKey = '',
   fileKey = 'invalid-file-key',
-  facebookAppIds = [],
+  facebookAppIds = ['1642852219290548'],
   enableAnonymousUsers = true,
   oauth = {},
   serverURL = '',
